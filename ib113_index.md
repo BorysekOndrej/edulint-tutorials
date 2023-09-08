@@ -1,0 +1,2 @@
+- [Instalace Thonny a Edulint](thonny-a-edulint.md)
+- [Vlákno v diskuzním fóru pro dotazy k EduLintu](TODO)
