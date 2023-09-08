@@ -8,7 +8,7 @@ Thonny je vývojové prostředí určené pro výuku programování a je vhodné
 
 Prvně si stáhněte instalační soubor. Ten můžete najít na [oficiálním webu Thonny](https://thonny.org/). Na něm stačí myší najet na _Windows_ a vybrat doporučenou (_recommended_) variantu.
 
-![Stažení instalačního souboru pro Windows](thonny-website-arrows.png)
+![Stažení instalačního souboru pro Windows](images/thonny-website-arrows.png)
 
 Po dokončení stažení nejspíš najdete instalační soubor mezi _staženými soubory_. Spusťte ho a projděte instalátorem. Pokud si s ním nevíte rady, spusťte ho a můžete ho projít například těmito kroky:
 
@@ -65,13 +65,13 @@ Spusťte Thonny a proveďte v něm následující tři kroky:
 
 3. Zavřete a znovu otevřete Thonny
 
-<img src="thonny_edulint_install.png" width="700">
+![](images/thonny_edulint_install.png)
 
 Po novém otevření Thonny byste měli nově vidět ikonku koštěte v hlavní liště. Že vše funguje si můžete vyzkoušet tak, že v Thonny otevřete libovolný Python soubor a analýzu spustíte buď kliknutím na ikonku koštěte, nebo klávesovou zkratkou F9.
 
 EduLint lze spustit pouze na uložený soubor. Pokud tedy vytváříte úplně nový soubor, nezapomeňte ho uložit, než spustíte analýzu. Pokud otvíráte již existující soubor, EduLint vždy soubor před analýzou automaticky uloží na disk.
 
-<img src="thonny_running.png" width="700">
+![](images/thonny_running.png)
 
 A jak případně později upgradovat EduLint na novější verzi? Postup je stejný jako při instalaci, pouze se Vám místo tlačítka Install zobrazí tlačítko <Upgrade>.
 
