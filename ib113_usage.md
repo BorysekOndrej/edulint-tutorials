@@ -1,5 +1,7 @@
 EduLint je linter poskytující zpětnou vazbu začínajícím programátorům na kvalitu kódu. Upozorňuje studenty na porušení některých pravidel z PEP8, na některé zdroje chyb a na časté problémy s kvalitou kódu.
 
+EduLint je k dispozici jako pip balíček, skrz webové rozhraní na [edulint.com](https://edulint.com/) a jako plugin do IDE Thonny (balíček `thonny-edulint`).
+
 EduLint nabízí řadu různých konfigurací. V rámci IB113 budeme používat konfiguraci pro CS0. Aby EduLint zkontroloval soubor pomocí této konfigurace, je třeba, aby studentův soubor obsahoval řádek "# edulint: config=cs0". Buďto je možné studenty upozornit, aby tento řádek přidali, nebo lépe ho přidat rovnou do kostry.
 
 EduLint je možné nainstalovat skrze pip (jméno balíčku je `edulint`). Spustit ho pak lze příkazem
